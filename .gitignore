@@ -1,0 +1,26 @@
+# Buildozer files
+.buildozer/
+bin/
+build/
+*.pyc
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database (kişisel veriler)
+*.db
+*.sqlite
+*.sqlite3
